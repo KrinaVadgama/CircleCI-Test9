@@ -17,3 +17,18 @@ workflows:
   hi_2:
     jobs:
       - say_hi_to_yml
+  hi_3:
+    jobs:
+      - say_hi_to_yml
+  hi_4:
+    jobs:
+      - say_hi_to_yml
+  hi_5:
+    jobs:
+      - say_hi_to_yml
+  hi_6:
+    jobs:
+      - say_hi_to_yml
+  hi_7:
+    jobs:
+      - say_hi_to_yml
