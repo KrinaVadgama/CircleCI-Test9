@@ -32,3 +32,16 @@ workflows:
   hi_7:
     jobs:
       - say_hi_to_yml
+  hi_8:
+    jobs:
+      - say_hi_to_yml
+  hi_9:
+    jobs:
+      - say_hi_to_yml
+  hi_10:
+    jobs:
+      - say_hi_to_yml
+  hi_11:
+    jobs:
+      - say_hi_to_yml
+      
